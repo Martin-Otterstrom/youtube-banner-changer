@@ -6,4 +6,4 @@ Randomly thought of automatically changing my youtube banner for my <a href="htt
 <img src="https://cdn.discordapp.com/attachments/365526776149180417/980648212929056768/unknown.png" alt=""> 👈 0,1 fps
 <img src="https://media.giphy.com/media/y3xXRQ4gBBReLMki0q/giphy.gif" alt="" width="100">
 <img src="https://cdn.discordapp.com/attachments/365526776149180417/980643151456927784/unknown.png" alt="" width="">
-<br>
+
