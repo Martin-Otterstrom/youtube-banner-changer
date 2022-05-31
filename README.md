@@ -8,5 +8,5 @@ Randomly thought of automatically changing my youtube banner for my <a href="htt
 <img src="https://cdn.discordapp.com/attachments/365526776149180417/980643151456927784/unknown.png" alt="" width="">
 ---
 ## 📚 Resources for development:
-https://developers.google.com/youtube/v3/quickstart/js
+https://developers.google.com/youtube/v3/quickstart/js <br>
 https://developers.google.com/explorer-help/code-samples#javascript
