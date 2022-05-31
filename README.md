@@ -9,3 +9,4 @@ Randomly thought of automatically changing my youtube banner for my <a href="htt
 ---
 ## 📚 Resources for development:
 https://developers.google.com/youtube/v3/quickstart/js
+https://developers.google.com/explorer-help/code-samples#javascript
